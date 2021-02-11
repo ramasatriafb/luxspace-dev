@@ -1,6 +1,7 @@
 import { addClass, removeClass } from "./utils-class";
 
 const modalTriggers = document.getElementsByClassName("modal-trigger");
+console.log(modalTriggers);
 const modalWrapperClassNames = "fixed inset-0 bg-black opacity-35";
 for (let index = 0; index < modalTriggers.length; index++) {
   const e = modalTriggers[index];
