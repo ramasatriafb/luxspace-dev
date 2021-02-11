@@ -1,7 +1,6 @@
 import {addClass, removeClass} from './utils-class.js';
 
 const menuTogglerId = document.getElementById("menu-toggler");
-console.log(menuTogglerId);
 menuTogglerId.addEventListener("click", function () {
   const menuId = document.getElementById("menu");
   if (menuId.className.indexOf("opacity-0") > -1) {
