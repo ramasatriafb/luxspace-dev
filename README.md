@@ -1,6 +1,8 @@
 #Luxspace Website
 
-This is a design and mockup slicing for a Commerce Furniture application from design Handoff in my Figma Design
+This is a design and mockup slicing for a Commerce Furniture application from design Handoff in my Figma Design. 
+
+Implementation using Tailwind CSS
 
 Live version can be seen at https://luxspace-dev-ramasatriafb.netlify.app//
 
